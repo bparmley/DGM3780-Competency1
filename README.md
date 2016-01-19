@@ -15,11 +15,14 @@ Thats it! When you submit your Pull Request, an automatic build process will be 
 
 #Assignment
 For this assinment you will be practicing this process. After you clone the repo, open up the aboutme.js file and constuct an object with the fallowing properties.
-name(String)
-gender(String)
-age(Number)
-bio(String, length greater than 140.)
 
+name(String)
+
+gender(String)
+
+age(Number)
+
+bio(String, length greater than 140.)
 
 ##Tips
 -Don't forget to:
