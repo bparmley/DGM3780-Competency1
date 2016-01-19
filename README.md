@@ -1,7 +1,7 @@
 # DGM 3780 Build Process
 In DGM 3780 we will be using automated tests and bulild processes to check code.
 
-#Process
+#Steps
 1. Fork Assignment Repo
 2. Clone Repo to your desktop (from YOUR github account)
 3. Code! :computer: :smile:
