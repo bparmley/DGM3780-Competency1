@@ -32,6 +32,7 @@ bio (String, length greater than 140.)
 when you first clone a project,
 
 -Want to know how you are doing while coding before you push?
+
 Run:
 ````npm test````
 In your terminal to know if you are going to pass the tests or not.
