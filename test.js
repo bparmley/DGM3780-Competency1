@@ -35,7 +35,7 @@ describe('Student Object', function() {
         expect(aboutme.student).to.have.property('bio');
     });
 
-    it('Should have a bio property', function () {
+    it('The bio prop should be a string', function () {
         expect(aboutme.student.bio).to.be.a('string');
     });
 
