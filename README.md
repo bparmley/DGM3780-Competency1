@@ -22,6 +22,8 @@ gender (String)
 
 age (Number)
 
+interests (Array, at least 3 elements)
+
 bio (String, length greater than 140.)
 
 ##Tips

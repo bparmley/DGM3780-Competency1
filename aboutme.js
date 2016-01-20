@@ -4,5 +4,6 @@ exports.student = {
     name: 'Thor Anderson',
     gender: 'Male',
     age: 49,
-    bio: 'I am the professor who is teaching this course. I have worked in Silicon Valley and I have been teaching for 10 years. I teach various web development skills.'
+    bio: 'I am the professor who is teaching this course. I have worked in Silicon Valley and I have been teaching for 10 years. I teach various web development skills.',
+    interests: ['computers', 'teaching', 'crossfit']
 }
